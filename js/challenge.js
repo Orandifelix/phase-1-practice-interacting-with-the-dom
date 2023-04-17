@@ -90,6 +90,6 @@ document.getElementById("submit").addEventListener("click", (event) => {
 });
 document.getElementById("toggle").addEventListener("click", toggleIncrement);
 
-// Start the counter
-startCounter();
+
+ 
 
